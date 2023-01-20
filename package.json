@@ -1,0 +1,22 @@
+{
+  "name": "boardproject",
+  "version": "1.0.0",
+  "description": "boardCreate",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hashoco/boardProject.git"
+  },
+  "keywords": [
+    "board"
+  ],
+  "author": "yang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hashoco/boardProject/issues"
+  },
+  "homepage": "https://github.com/hashoco/boardProject#readme"
+}
